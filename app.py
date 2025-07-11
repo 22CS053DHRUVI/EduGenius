@@ -1,5 +1,5 @@
 import streamlit as st
-import EduGenius.EduGenius_Squad as squad
+import EduGenius_Squad as squad
 import tempfile
 import os
 from reportlab.lib.pagesizes import A4
