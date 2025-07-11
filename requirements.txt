@@ -1,6 +1,6 @@
 streamlit
 reportlab
-PyMuPDF==1.21.1
+PyMuPDF==1.22.5
 fpdf2==2.7.6
 python-pptx==0.6.21
 requests==2.31.0
