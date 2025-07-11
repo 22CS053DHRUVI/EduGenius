@@ -1,0 +1,14 @@
+streamlit
+reportlab
+PyMuPDF==1.23.8
+fpdf2==2.7.6
+python-pptx==0.6.21
+requests==2.31.0
+beautifulsoup4==4.12.2
+python-dotenv
+# Optional (if not already included by agno or your environment)
+tqdm
+# AI/LLM dependencies
+agno
+google-genai
+openai
